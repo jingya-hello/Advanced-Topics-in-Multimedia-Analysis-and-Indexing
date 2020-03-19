@@ -2,6 +2,10 @@
 
 ## Introduction
 This paper introduce many methods for facial detection
+###  Three modules for automatic face identification and verification systems
+1. A face detector to localize faces
+2. A fiducial point detector is used to localize the important facial landmarks
+3. A feature descriptor that encodes the identity information is extracted from the aligned face.
 
 ## Face Detection in Unconstrained Image
 ### Region Based
